@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LuisGMoralesRaya/Grupo-AIH-WebPack/issues"
   },
-  "homepage": "https://github.com/LuisGMoralesRaya/Grupo-AIH-WebPack#readme"
+  "homepage": "https://github.com/LuisGMoralesRaya/Grupo-AIH-WebPack#readme",
+  "devDependencies": {
+    "webpack": "^4.38.0"
+  }
 }
